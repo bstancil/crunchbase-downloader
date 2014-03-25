@@ -37,3 +37,6 @@ nosetests.xml
 .pydevproject
 env
 apikey.txt
+
+#Data 
+cb_data
